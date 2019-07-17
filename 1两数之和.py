@@ -1,4 +1,5 @@
-#1.两数之和
+#author：张思选
+#email：1057950343@qq.com
 # 遍历
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
