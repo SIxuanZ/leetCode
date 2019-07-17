@@ -1,5 +1,5 @@
-#参考网站:https://blog.csdn.net/qq_16000815/article/details/81271859
-# Definition for singly-linked list.
+#author：张思选
+#email：1057950343@qq.com
 #class ListNode:
 #    def __init__(self,x):
 #        self.val = x
